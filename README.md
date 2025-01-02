@@ -1,4 +1,4 @@
 # kaibi
 kai pan
 whatever
-nothing
+nothing is everything
